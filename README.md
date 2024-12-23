@@ -1,5 +1,4 @@
 # Svm-improved-coin-detection
-# classical-cv-coin-detection
 
 ## Overview
 This project contains a Python program that detects and identifies coins in an input image and calculates their total monetary value in US cents. The program processes images and outputs the number, positions, and values of the detected coins. This program provides an automated method for detecting and counting coins in images. The task involves locating coins and determining their value (in cents) from a given image.
